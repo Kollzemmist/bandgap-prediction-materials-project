@@ -1,0 +1,9 @@
+mp-api
+pymatgen
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+shap
